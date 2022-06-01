@@ -1,4 +1,7 @@
 Старт!
+git push -u origin master   -- проект уже залит на Github
+
+
 
 1. Инициализировать GIT:
 
